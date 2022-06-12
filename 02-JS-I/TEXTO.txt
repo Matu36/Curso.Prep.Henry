@@ -1,0 +1,33 @@
+* Variables: Una variable es definir algo. Darle un valor que luego, usaremos mas tarde,
+cuando la necesitemos.
+Se pueden declarar las variables de la forma  - var = 
+- let = 
+- const =
+
+* Strings: Los strings son bloques de texto, los cuales, siempre van a definirse
+entre comillas. Siempre que haya comillas es un string o cadena de strings. Son hilos
+de letras o caracteres.
+
+* Funciones (argumentos, `return`):
+Las funciones sirven para no repetirse; Es decir, no escribir codigo
+que haga dos veces lo mismo.
+Las funciones agrupan código; lo guardan en un lugar para luego ser 
+ejecutado.
+Se denomina invocar una función cuando ponemos el nombre de la función con paréntesis.
+La función console.log recibe un argumento y luego lo imprime.
+Las funciones, dentro, reciben argumentos, las cuales van entre paréntesis. Luego, 
+cuando se invoca el nombre de la función y las variables que se quieren utilizar,
+se van a concatenar con los argumentos.
+Cuando se declara un argumento a la funcion es como si se declarara una variable
+dentro del código.
+Una función return, es una función que retorna algo.
+Cuando escribimos return la ejución de la función termina.
+
+* Declaraciones `if`
+El if o control de flujo nos permite agregar una lógica al código.
+Nos permite hacer preguntas e ir ejecutando distintos códigos según ciertas 
+condiciones. El if es un condicional. Las condiciones son expresiones
+que se convierten en verdadero o falso.
+
+* Valores booleanos (`true`, `false`)
+Los valores booleanos se utilizan en javascript para significar verdadero o falso.
