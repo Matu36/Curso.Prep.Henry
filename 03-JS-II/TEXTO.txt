@@ -1,0 +1,24 @@
+1. En un archivo de texto separado que debes crear, 
+escribe explicaciones de los siguientes conceptos como si 
+se lo estuvieras explicando a un niño de 12 años. Hacer esto te 
+ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* `for`: Sirve  para repetir un bloque de codigo muchas veces.
+El bucle for tiene tres partes:
+1- la variable que va a utilizar para contar la cantidad de repeticiones que hace.
+2- Es una condición de frenado (cuando se quiere que deje de ejecutarse).
+3- Como se quiere que se vaya incrementando el valor (ej. i++).
+El bucle for va entre comillas, y luego el codigo que se ejecuta entre llaves.
+
+* `&&`: Es un operadpr lógico que significa "Y" o and. Este operador evalúa ambas 
+expresiones y devolverá TRUE sin ambas son verdaderas; si una o ambas son falsas 
+devolverá FALSE.
+
+* `||`: Es un operador lógico que significa "O" u "or". Determina si una de las 
+expresiones es TRUE. Devolverá true si una o ambas expresiones son verdades, y FALSE, 
+si ambas son falsas.
+
+* `!": Es un operador lógico que significa NOT o NO. El operador NOT devolverá el 
+valor booleano opuesto de lo que se le pase.
+
+En todos los operadores lógicos se usan las paréntesis.
