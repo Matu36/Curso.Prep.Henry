@@ -1,0 +1,8 @@
+ARRAYS: 
+Los matrices o arreglos con contenedores de almacenamiento para
+colecciones de datos.
+Las usamos para representar datos de la vida real.
+Contiene elementos ordenados a los cuales podemos acceder. Contiene listas, es decir,
+una serie de elementos ordenados uno al lado del otro.
+Los arrays o arreglos son listas de elementos.
+Se definen usando corchetes [];
