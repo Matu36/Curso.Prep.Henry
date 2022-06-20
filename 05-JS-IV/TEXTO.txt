@@ -1,0 +1,45 @@
+* Objetos / * Propiedades
+Un objeto es una coleccion de propiedades, y una propiedad es una asociación entre
+un nombre (o clave) y un valor.
+Es una estructura de datos donde tenemos propiedades (nombres, strings) que están
+asociadas a un valor.
+Desarrollar un objeto nos sirve para contener distintas propiedades del mismo en un
+solo lugar; ej: persona: nombre: edad: trabajo: etc.  
+
+Como escribimos un ojeto?
+var obj = {
+propiedad : valor1,
+propiedad : valor2,
+propiedad : valor3,
+}
+                         
+* Métodos: Las funciones dentro del objeto son métodos. Es decir; en los objetos, 
+los valores se pueden establecer en funciones; las funciones guardadas en un objeto,
+se denominan métodos.
+
+
+* Bucle `for…in`: La instrucción for-in itera sobre todas las propiedades 
+enumerables de un objeto que está codificado por cadenas (ignorando los
+codificados por Símbolos, incluidas las propiedades enumerables heredadas).
+El bucle iterará sobre todas las propiedades enumerables del objeto 
+en sí y aquellas que el objeto hereda de su cadena de prototipos 
+(las propiedades de los prototipos más cercanos tienen prioridad 
+sobre las de los prototipos más alejados del objeto en su cadena de prototipos).
+
+
+* Notación de puntos vs notación de corchetes:
+Los operadores de miembros proporcionan acceso a las propiedades y métodos 
+de un objeto.
+Hay dos modos de acceder a estas propiedades: notación por punto y notación 
+por corchetes.
+
+Ejemplo notacion por punto:
+
+get = objeto.propiedad;
+objeto.propiedad = set;
+
+Ejemplo notacion por corchetes:
+
+get = objeto[nombre_propiedad];
+objeto[nombre_propiedad] = set;
+
