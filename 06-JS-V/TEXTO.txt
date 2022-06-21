@@ -1,0 +1,17 @@
+* `prototype`:
+El lenguaje de javascript esta diseñado en base a prototipos.
+Todos los objetos de javascript tienen una referencia a otro objeto
+que es llamado su prototitpo.
+Por otro lado, las clases tienen una forma unica de establecer un metodo una vez
+y dar acceso a cada objeto de esa clase a esos métodos. Cada clase tiene una 
+propiedad prototype que luego podemos establecer en métodos.
+
+
+* _Constructors_ (de Clases): 
+Una clase se usa para la creación de objetos de datos según un determinado
+modelo. Las clases se utilizan para representar entidades o conceptos, como 
+los sustantivos en el lenguaje.
+La funcion constructura de las clases, nos va a permitir construir objetos.
+Se usan los keywords new y this.; Ejemplo de cuando creamos una plantilla:
+Clase = Auto     Objetos = audi, gol, ford      Propiedades = "verde", "rapido", etc.
+ 
