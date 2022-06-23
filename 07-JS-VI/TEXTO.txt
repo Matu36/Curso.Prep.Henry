@@ -1,0 +1,6 @@
+* Funciones Callback: En javascript podemos pasar funciones como argumentos.
+Cuando pasamos una funcion como argumento a otra funcion se denomina callback (cb);
+Estas funciones pueden invocarse en cualquier momento y pasar argumentos dentro
+de la función.
+Primero definimos una funcion; una vez definida podemos usarla como argumento de otra
+función.
